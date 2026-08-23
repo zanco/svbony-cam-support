@@ -10,6 +10,17 @@ to do is to add the camera serial number to configuration.ini so if multiple cam
 
 (the other one is ment to be used on indi allsky on the same computer)
 
-SVBONY SDK required
-This tool requires the SVBONY Camera SDK. Download the Linux SDK from the official SVBONY Software & Driver Downloads page before running detect_svbony.py. 
+## Requirements
+
+This tool requires the SVBONY Camera SDK.
+
+Tested with **SVBONY Camera SDK v1.10.2**.
+
+Download the Linux SDK from the official SVBONY website:
+
+https://www.svbony.com/downloads/software-driver
+
+The SDK is listed under **SDK → Linux**. :contentReference[oaicite:0]{index=0}
+
+Newer SDK versions may also work, but have not been tested with this tool.
 
