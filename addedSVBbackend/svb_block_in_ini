@@ -1,0 +1,10 @@
+[SVB]
+serial = 01230A144D0B6C09EE2209220000    # SVBONY SV305M PRO serial number
+nx = 1920                                # Camera horizontal pixel count
+ny = 1080                                # Camera vertical pixel count
+nframes = 100                            # Number of frames for each image
+gain = 10                                # Camera gain
+exposure = 100000 #250                           # Exposure time in microseconds
+bit_depth = 16                           # Capture bit depth
+software_bin = 1                         # STVID software binning factor
+
