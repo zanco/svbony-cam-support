@@ -24,4 +24,4 @@ The SDK is listed under **SDK → Linux**. :contentReference[oaicite:0]{index=0}
 
 Newer SDK versions may also work, but have not been tested with this tool.
 
-output shows on resultaten/detect_svbony_results.png
+output shows on https://github.com/zanco/svbony-cam-support/blob/main/resultaten/detect_svbony_results.png
