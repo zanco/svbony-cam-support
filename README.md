@@ -25,3 +25,5 @@ The SDK is listed under **SDK → Linux**. :contentReference[oaicite:0]{index=0}
 Newer SDK versions may also work, but have not been tested with this tool.
 
 output shows on https://github.com/zanco/svbony-cam-support/blob/main/resultaten/detect_svbony_results.png
+
+Last nights run (2026-08-23 ) with the SVB Backend version showed no memory problems and resulted in 23 classfd and 255 regular satellites in observation. 
